@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* Make the app fill the viewport so footer can sit at the bottom */
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Footer styling */
+.app-footer {
+  background-color: #111;
+  color: #ccc;
+}
+
+/* Card hover effect */
+.card:hover {
+  transform: translateY(-2px);
+  transition: transform 0.15s ease-out;
+}
