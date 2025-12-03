@@ -10,10 +10,11 @@
         <router-link to="/recipes" class="btn btn-primary btn-lg">
           Explore TikTok Recipes
         </router-link>
-        <router-link to="/creators" class="btn btn-outline-light btn-lg">
+        <router-link to="/creators" class="btn btn-outline-secondary btn-lg">
           Meet the Creators
         </router-link>
       </div>
+
     </div>
 
     <div class="row g-4">
