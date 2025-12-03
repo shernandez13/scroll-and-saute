@@ -44,7 +44,7 @@ const creators = [
     niche: '15-minute meals',
     vibe:
       'Quick, realistic weeknight meals using pantry staples and simple techniques.',
-    url: 'https://www.tiktok.com/'
+    url: 'https://www.tiktok.com/@lenacooksfast'
   },
   {
     id: 2,
@@ -53,7 +53,7 @@ const creators = [
     niche: 'Baking & desserts',
     vibe:
       'Step-by-step baking tutorials with detailed texture close-ups.',
-    url: 'https://www.tiktok.com/'
+    url: 'https://www.tiktok.com/@marcobakes'
   },
   {
     id: 3,
@@ -62,7 +62,35 @@ const creators = [
     niche: 'Budget cooking',
     vibe:
       'Grocery hauls, cost breakdowns, and cheap meal ideas for students.',
-    url: 'https://www.tiktok.com/'
+    url: 'https://www.tiktok.com/@brokeandhungry'
+  },
+  {
+    id: 4,
+    name: 'Tiffy Chen',
+    handle: '@tiffy.cooks',
+    niche: 'Asian comfort food',
+    vibe:
+      'Cozy Taiwanese- and Asian-inspired comfort recipes that are easy to make at home.',
+    url: 'https://www.tiktok.com/@tiffy.cooks'
+  },
+  {
+    id: 5,
+    name: 'Poppy O\'Toole',
+    handle: '@poppycooks',
+    niche: 'Potatoes & comfort food',
+    vibe:
+      'Michelin-trained chef known for creative potato dishes and comforting mains.',
+    url: 'https://www.tiktok.com/@poppycooks'
+  },
+  {
+    id: 6,
+    name: 'Remy Park',
+    handle: '@veggiekins',
+    niche: 'Vegan & wellness',
+    vibe:
+      'Plant-based recipes, meal ideas, and wellness-focused cooking content.',
+    url: 'https://www.tiktok.com/@veggiekins'
   }
 ]
+
 </script>
