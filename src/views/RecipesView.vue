@@ -44,36 +44,36 @@
 const recipes = [
   {
     id: 1,
-    title: 'Baked Feta Pasta',
-    creator: '@cheesyweeknights',
+    title: 'Tteokbokki',
+    creator: '@withngocthao',
     platform: 'TikTok',
     description:
-      'Sheet-pan cherry tomatoes and feta baked into a creamy sauce, tossed with pasta.',
+      'Korean inspired dish ',
     difficulty: 'Easy',
     time: '30 min',
-    url: 'https://www.tiktok.com/'
+    url: 'https://www.tiktok.com/@withngocthao/video/7535909775540882694?is_from_webapp=1&sender_device=pc&web_id=7547527214976239117'
   },
   {
     id: 2,
-    title: 'Crispy Rice Salmon Bowls',
-    creator: '@salmonSundays',
+    title: 'Apple Pie',
+    creator: '@bromabakery',
     platform: 'TikTok',
     description:
-      'Crispy rice squares topped with spicy salmon, avocado, and sriracha mayo.',
-    difficulty: 'Medium',
-    time: '40 min',
-    url: 'https://www.tiktok.com/'
+      'thick, tender apples with that perfect structure and bite, a warm brown sugar filling flavored with cinnamon, nutmeg, and ginger, and a buttery flaky crust that stays crisp over all that goodness.',
+    difficulty: 'hard',
+    time: '2 hours',
+    url: 'https://www.tiktok.com/@bromabakery/video/7571840803467824414?is_from_webapp=1&sender_device=pc&web_id=7547527214976239117'
   },
   {
     id: 3,
-    title: '3-Ingredient Oreo Mug Cake',
-    creator: '@sweettoothstudio',
+    title: 'Cheap Mozzareella Sticks',
+    creator: '@kikirough',
     platform: 'TikTok',
     description:
-      'Microwave-only dessert using Oreos, milk, and baking powder — classic late-night snack.',
+      'Cheesy simple appetizier',
     difficulty: 'Super easy',
-    time: '5 min',
-    url: 'https://www.tiktok.com/'
+    time: '2 hours',
+    url: 'https://www.tiktok.com/@kikirough/video/7555300404095913229?is_from_webapp=1&sender_device=pc&web_id=7547527214976239117'
   }
 ]
 </script>
