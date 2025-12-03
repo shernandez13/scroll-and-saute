@@ -39,57 +39,57 @@
 const creators = [
   {
     id: 1,
-    name: 'Lena Nguyen',
-    handle: '@lenacooksfast',
-    niche: '15-minute meals',
+    name: 'Lisa Thao',
+    handle: '@withngocthao',
+    niche: 'Rice cooker meals',
     vibe:
-      'Quick, realistic weeknight meals using pantry staples and simple techniques.',
-    url: 'https://www.tiktok.com/@lenacooksfast'
+      'Quick, realistic weeknight meals using pantry staples and a rice cooker.',
+    url: 'https://www.tiktok.com/@withngocthao?is_from_webapp=1&sender_device=pc'
   },
   {
     id: 2,
-    name: 'Marco Rossi',
-    handle: '@marcobakes',
+    name: 'Broma Bakery',
+    handle: '@bromabakery',
     niche: 'Baking & desserts',
     vibe:
       'Step-by-step baking tutorials with detailed texture close-ups.',
-    url: 'https://www.tiktok.com/@marcobakes'
+    url: 'https://www.tiktok.com/@bromabakery?is_from_webapp=1&sender_device=pc'
   },
   {
     id: 3,
-    name: 'Jules Carter',
-    handle: '@brokeandhungry',
+    name: 'Kiki Rough',
+    handle: '@kikirough',
     niche: 'Budget cooking',
     vibe:
       'Grocery hauls, cost breakdowns, and cheap meal ideas for students.',
-    url: 'https://www.tiktok.com/@brokeandhungry'
+    url: 'https://www.tiktok.com/@kikirough?is_from_webapp=1&sender_device=pc'
   },
   {
     id: 4,
-    name: 'Tiffy Chen',
-    handle: '@tiffy.cooks',
+    name: 'Kristina Cho',
+    handle: '@eatchofood',
     niche: 'Asian comfort food',
     vibe:
-      'Cozy Taiwanese- and Asian-inspired comfort recipes that are easy to make at home.',
-    url: 'https://www.tiktok.com/@tiffy.cooks'
+      'Cozy Chinese- and Asian-inspired comfort recipes that are easy to make at home.',
+    url: 'https://www.tiktok.com/@eatchofood?is_from_webapp=1&sender_device=pc'
   },
   {
     id: 5,
-    name: 'Poppy O\'Toole',
-    handle: '@poppycooks',
+    name: 'Cherie Brooks',
+    handle: '@thrivingonplants',
     niche: 'Potatoes & comfort food',
     vibe:
       'Michelin-trained chef known for creative potato dishes and comforting mains.',
-    url: 'https://www.tiktok.com/@poppycooks'
+    url: 'https://www.tiktok.com/@thrivingonplants?is_from_webapp=1&sender_device=pc'
   },
   {
     id: 6,
-    name: 'Remy Park',
-    handle: '@veggiekins',
+    name: 'Alethea Hemming',
+    handle: '@aletheatodaro',
     niche: 'Vegan & wellness',
     vibe:
       'Plant-based recipes, meal ideas, and wellness-focused cooking content.',
-    url: 'https://www.tiktok.com/@veggiekins'
+    url: 'https://www.tiktok.com/@aletheatodaro?is_from_webapp=1&sender_device=pc'
   }
 ]
 
